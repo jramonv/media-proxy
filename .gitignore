@@ -1,0 +1,7 @@
+
+# Runtime credentials must never be committed.
+cookies
+cookies.txt
+.env
+.env.*
+!.env.example
